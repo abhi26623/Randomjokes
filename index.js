@@ -90,3 +90,4 @@ document.getElementById("prev-page").addEventListener("click", () => {
 
 // Initial load of the first page
 loadJokes(currentPage);
+// Triggering PR event
