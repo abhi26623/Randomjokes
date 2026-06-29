@@ -4,6 +4,7 @@ let totalPages = 1;
 /**
  * Fetches a specific page of jokes from the API
  */
+ <!-- test commit -->
 async function loadJokes(page) {
     try {
         const response = await fetch(`https://api.freeapi.app/api/v1/public/randomjokes?page=${page}&limit=10`);
@@ -90,3 +91,4 @@ document.getElementById("prev-page").addEventListener("click", () => {
 
 // Initial load of the first page
 loadJokes(currentPage);
+// Triggering PR event
