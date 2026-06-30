@@ -5,6 +5,8 @@ let totalPages = 1;
  * Fetches a specific page of jokes from the API 
  * 
  * testing the pull request feature on github
+ * checking claire review feature
+ * 
  * 
  * 
  */
