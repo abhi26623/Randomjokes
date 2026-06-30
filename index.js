@@ -6,7 +6,7 @@ let totalPages = 1;
  * 
  * testing the pull request feature on github
  * checking claire review feature
- * 
+ * checking the pull request feature on github
  * 
  * 
  */
