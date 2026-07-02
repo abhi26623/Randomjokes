@@ -8,7 +8,7 @@ let totalPages = 1;
  * checking claire review feature
  * checking the pull request feature on github
  * test 3 testing the pull request feature on github
- * 
+ * hello how are you
  */
 async function loadJokes(page) {
     try {
