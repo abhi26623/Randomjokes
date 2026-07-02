@@ -1,8 +1,15 @@
 let currentPage = 1;
 let totalPages = 1;
-
+//  just testing git on git hub hello how are you 
 /**
- * Fetches a specific page of jokes from the API
+ * Fetches a specific page of jokes from the API 
+ * 
+ * testing the pull request feature on github
+ * checking claire review feature
+ * checking the pull request feature on github
+ * test 3 testing the pull request feature on github
+ * hello how are you
+ * fine and you 
  */
 async function loadJokes(page) {
     try {
@@ -90,3 +97,4 @@ document.getElementById("prev-page").addEventListener("click", () => {
 
 // Initial load of the first page
 loadJokes(currentPage);
+// Triggering PR event
